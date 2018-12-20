@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/lindseycardenas/burger#readme",
   "dependencies": {
-    "mysql": "^2.16.0"
-  }
+    "mysql": "^2.16.0",
+    "orm": "^5.0.2"
+  },
+  "devDependencies": {}
 }
