@@ -1,6 +1,3 @@
-DROP DATABASE IF EXISTS burgers_db;
-CREATE DATABASE burgers_db;
-USE burgers_db;
 
 CREATE TABLE burgers (
 
@@ -11,4 +8,3 @@ CREATE TABLE burgers (
     createdAt TIMESTAMP NOT NULL
 );
 
-SELECT * FROM burgers; 

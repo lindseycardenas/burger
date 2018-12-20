@@ -1,4 +1,4 @@
-INSERT INTO burgers (burgerName, devoured)
+INSERT INTO tdbmeivrtiwuwfjs (burgerName, devoured)
 VALUES ("HAMBURG", true); 
 
 INSERT INTO burgers (burgerName, devoured)
